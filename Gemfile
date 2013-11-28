@@ -1,6 +1,7 @@
 source 'http://ruby.taobao.org'
 ruby '1.9.3'
 
+gem "rake", "0.8.7"
 gem 'rails', '4.0.0'
 
 group :development do
